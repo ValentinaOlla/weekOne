@@ -8,6 +8,6 @@ Create an html page, with:
 4. image
 5. video
 6. footer
-7. every tug must have and id and a class
+7. every tag must have and id and a class
 
 First project in html
