@@ -11,3 +11,12 @@ Create an html page, with:
 7. every tag must have and id and a class
 
 First project in html
+ 
+ ## Element:
+ 1. title
+ 3. paragraph    
+ 5. video 
+
+  # Done by:
+  - Valerio-Soro;
+  - Marco-Andronico.
